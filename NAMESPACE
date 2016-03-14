@@ -1,0 +1,16 @@
+useDynLib(ClustOrd)
+export(clustOrd)
+export(CleanOutput)
+exportClasses(
+     "ClustOrdcriteria",
+     "ClustOrdpartitions",
+     "ClustOrdstrategy",
+     "ClustOrdmodel",
+     "ClustOrddata",
+     "ClustOrdparam",
+     "ClustOrdresults",
+     "ClustOrddetailsMH"
+     )
+import(methods)
+importFrom("Rcpp", evalCpp)
+importFrom("parallel", mclapply, detectCores, makeCluster, clusterExport, parLapply, clusterEvalQ, stopCluster)

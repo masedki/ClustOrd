@@ -1,0 +1,269 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Criteria.h",
+                "kind" : 2,
+                "line" : 20,
+                "name" : "Criteria",
+                "parent_name" : "",
+                "usr" : "c:@C@Criteria"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Criteria.h",
+        "file_last_write" : 1446470014
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Data.h",
+                "kind" : 2,
+                "line" : 20,
+                "name" : "Data",
+                "parent_name" : "",
+                "usr" : "c:@C@Data"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Data.h",
+        "file_last_write" : 1446470014
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Metropolis.h",
+                "kind" : 2,
+                "line" : 6,
+                "name" : "Metropolis",
+                "parent_name" : "",
+                "usr" : "c:@C@Metropolis"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Metropolis.h",
+        "file_last_write" : 1446470014
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Model.h",
+                "kind" : 2,
+                "line" : 13,
+                "name" : "Model",
+                "parent_name" : "",
+                "usr" : "c:@C@Model"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Model.h",
+                "kind" : 7,
+                "line" : 30,
+                "name" : "NeighborModel(const Model *)",
+                "parent_name" : "Model",
+                "usr" : "c:@C@Model@F@NeighborModel#*1$@C@Model#"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Model.h",
+        "file_last_write" : 1446470014
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Param.h",
+                "kind" : 2,
+                "line" : 7,
+                "name" : "Param",
+                "parent_name" : "",
+                "usr" : "c:@C@Param"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Param.h",
+        "file_last_write" : 1446470014
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Results.h",
+                "kind" : 2,
+                "line" : 10,
+                "name" : "Results",
+                "parent_name" : "",
+                "usr" : "c:@C@Results"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Results.h",
+        "file_last_write" : 1446470014
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Strategy.h",
+                "kind" : 2,
+                "line" : 13,
+                "name" : "Strategy",
+                "parent_name" : "",
+                "usr" : "c:@C@Strategy"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/Strategy.h",
+        "file_last_write" : 1446470014
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/XEM.h",
+                "kind" : 2,
+                "line" : 6,
+                "name" : "XEM",
+                "parent_name" : "",
+                "usr" : "c:@C@XEM"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/inst/include/XEM.h",
+        "file_last_write" : 1446470014
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 5,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/ClustOrd.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "OptimizeBIC(S4)",
+                "parent_name" : "",
+                "usr" : "c:@F@OptimizeBIC#$@N@Rcpp@C@S4_Impl>#@N@Rcpp@CT>1#T@PreserveStorage#"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/src/ClustOrd.cpp",
+        "file_last_write" : 1457640282
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 18,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/Metropolis.cpp",
+                "kind" : 7,
+                "line" : 11,
+                "name" : "Run",
+                "parent_name" : "Metropolis",
+                "usr" : "c:@C@Metropolis@F@Run#"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/src/Metropolis.cpp",
+        "file_last_write" : 1457640282
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/src/Param.cpp",
+        "file_last_write" : 1457640282
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/Results.cpp",
+                "kind" : 7,
+                "line" : 13,
+                "name" : "SampleNeighbor(const Results *)",
+                "parent_name" : "Results",
+                "usr" : "c:@C@Results@F@SampleNeighbor#*1$@C@Results#"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/Results.cpp",
+                "kind" : 7,
+                "line" : 17,
+                "name" : "CopySparse(const Results *)",
+                "parent_name" : "Results",
+                "usr" : "c:@C@Results@F@CopySparse#*1$@C@Results#"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/src/Results.cpp",
+        "file_last_write" : 1457640282
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/XEM.cpp",
+                "kind" : 7,
+                "line" : 33,
+                "name" : "Redefinition(Results *)",
+                "parent_name" : "XEM",
+                "usr" : "c:@C@XEM@F@Redefinition#*$@C@Results#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/XEM.cpp",
+                "kind" : 7,
+                "line" : 64,
+                "name" : "Run",
+                "parent_name" : "XEM",
+                "usr" : "c:@C@XEM@F@Run#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/XEM.cpp",
+                "kind" : 7,
+                "line" : 97,
+                "name" : "ProbaComputation",
+                "parent_name" : "XEM",
+                "usr" : "c:@C@XEM@F@ProbaComputation#"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/XEM.cpp",
+                "kind" : 7,
+                "line" : 128,
+                "name" : "ComputeLogLike",
+                "parent_name" : "XEM",
+                "usr" : "c:@C@XEM@F@ComputeLogLike#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/XEM.cpp",
+                "kind" : 7,
+                "line" : 143,
+                "name" : "SwitchParamCurrent(int)",
+                "parent_name" : "XEM",
+                "usr" : "c:@C@XEM@F@SwitchParamCurrent#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/XEM.cpp",
+                "kind" : 7,
+                "line" : 145,
+                "name" : "Estep",
+                "parent_name" : "XEM",
+                "usr" : "c:@C@XEM@F@Estep#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/XEM.cpp",
+                "kind" : 7,
+                "line" : 158,
+                "name" : "Mstep",
+                "parent_name" : "XEM",
+                "usr" : "c:@C@XEM@F@Mstep#"
+            },
+            {
+                "column" : 11,
+                "file" : "/home/sedki/Téléchargements/ClustOrd/src/XEM.cpp",
+                "kind" : 7,
+                "line" : 192,
+                "name" : "OneEM",
+                "parent_name" : "XEM",
+                "usr" : "c:@C@XEM@F@OneEM#"
+            }
+        ],
+        "file" : "/home/sedki/Téléchargements/ClustOrd/src/XEM.cpp",
+        "file_last_write" : 1457640282
+    }
+]
